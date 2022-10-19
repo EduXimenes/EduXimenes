@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Eduardo and i work as a developer at TCS. 😄 <br>I'm currently studying Swift and I'm interested in technologies like Mobile, Front-end, and Game Development .</h2>
+<h2 align="left">Hi 👋! <br>My name is Eduardo and i work as a developer at TCS. 😄 <br>I'm currently studying Swift and technologies like Mobile, Front-end, and Game Development .</h2>
 
 ###
 
